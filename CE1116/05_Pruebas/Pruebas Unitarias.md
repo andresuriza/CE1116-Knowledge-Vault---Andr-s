@@ -9,14 +9,7 @@ Tema: pruebas-automatizadas
 
 ## 📚 Idea/Concepto 
 
-
-## 📌 Puntos Claves (Opcional)
-- 
+Consisten en pruebas que aislan la porción más pequeña del código posible, por lo general consisten en funciones, subrutinas, métodos o propiedades, la idea es que no se comuniquen con otros procesos de la aplicación.
 
 ## 🔗 Connections
 - [[Estándares de Programación]]
-
-## 💡 Personal Insight (Opcional)
-- 
-## 🧾 Recursos (Opcional)
-- 

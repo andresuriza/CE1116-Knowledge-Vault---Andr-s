@@ -12,13 +12,8 @@ Topic:
 ## 📚 Idea/Concepto 
 
 
-## 📌 Puntos Claves (Opcional)
-- 
+Las entrevistas de proyectos consisten en el manager explicando el progreso o resultados del producto, usualmente se revisa la documentación y requerimientos del mismo, para asegurar de que todas las personas involucradas estén en la misma página.
 
 ## 🔗 Connections
 - [[Scrum ]]
 
-## 💡 Personal Insight (Opcional)
-- 
-## 🧾 Recursos (Opcional)
-- 

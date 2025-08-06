@@ -10,14 +10,9 @@ Topic:
 
 ## 📚 Idea/Concepto 
 
+Es un framework de manejo de projectos agile, permite a los equipos estructurar el trabajo mediante valores, principios y prácticas.
 
-## 📌 Puntos Claves (Opcional)
-- 
+Está basado en un término de rugby que se enfoca en solucionar problemas y reflexionar en su desempeño.
 
 ## 🔗 Connections
 - [[Entrevistas]]
-
-## 💡 Personal Insight (Opcional)
-- 
-## 🧾 Recursos (Opcional)
-- 

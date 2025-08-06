@@ -8,14 +8,7 @@ Tema: monitoreo
 
 ## 📚 Idea/Concepto 
 
-
-## 📌 Puntos Claves (Opcional)
-- 
+Consiste en el monitoreo del desempeño, disponibilidad, y experiencia del usuario de una aplicación, esto con el fin de que se puedan obtener datos útiles sobre la aplicación antes de que impacten a los usuarios meta.
 
 ## 🔗 Connections
 - [[Microservicios]]
-
-## 💡 Personal Insight (Opcional)
-- 
-## 🧾 Recursos (Opcional)
-- 
