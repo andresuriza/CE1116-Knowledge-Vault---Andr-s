@@ -16,3 +16,4 @@ Está basado en un término de rugby que se enfoca en solucionar problemas y ref
 
 ## 🔗 Connections
 - [[Entrevistas]]
+- [[Filosofía ágil]]

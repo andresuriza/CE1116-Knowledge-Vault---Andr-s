@@ -1,8 +1,10 @@
 ---
 Fecha de creación: 2025-08-06 16:59
 Fecha de Modificación: 2025-08-06 16:59
-tags: 
-Tema:
+tags:
+  - ingeniería-de-software
+Topic:
+  - procesos-desarrollo
 ---
 
 
@@ -24,7 +26,7 @@ Es una serie de frameworks y prácticas para el desarrollo de proyectos basadas 
 - En intervalos regulares, el equipo reflexiona en como ser más efectivo y ajusta su comportamiento conforme.
 
 ## 🔗 Connections
-- [[ ]]
+- [[Scrum]]
 
 ## 🧾 Recursos (Opcional)
 -  [12 Principles Behind the Agile Manifesto | Agile Alliance](https://agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
