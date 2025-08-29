@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
+                "file": "CE1116/09_Principios de IA/Embeddings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Filosofía ágil"
+              "title": "Embeddings"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:ingeniería-de-software",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,6 +171,17 @@
   },
   "active": "2652d9cd7bd7f3d7",
   "lastOpenFiles": [
+    "CE1116/09_Principios de IA/Large Language Models (LLM).md",
+    "CE1116/09_Principios de IA/Mecanismo de atención utilizado en la arquitectura de Transformers.md",
+    "CE1116/09_Principios de IA/Redes Neuronales.md",
+    "CE1116/09_Principios de IA/Tokenización.md",
+    "CE1116/09_Principios de IA/Ventana de contexto del modelo.md",
+    "CE1116/09_Principios de IA/Embeddings.md",
+    "CE1116/08_Roles/Stakeholder.md",
+    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
+    "CE1116/09_Principios de IA",
+    "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
     "CE1116/01_Procesos de Desarrollo/Planning poker.md",
     "CE1116/01_Procesos de Desarrollo/Sprint planning.md",
     "CE1116/01_Procesos de Desarrollo/User story.md",
@@ -183,27 +194,16 @@
     "CE1116/04_Implementación/Estándares de Programación.md",
     "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
     "CE1116/08_Roles/Product owner.md",
-    "CE1116/08_Roles/Stakeholder.md",
-    "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
     "CE1116/01_Procesos de Desarrollo/Scrum.md",
     "CE1116/01_Procesos de Desarrollo/Velocity.md",
     "CE1116/02_Requirimientos/Requerimientos de sistema.md",
     "CE1116/05_Pruebas/Pruebas funcionales.md",
-    "CE1116/05_Pruebas/Pruebas Unitarias.md",
-    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
-    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
-    "CE1116/01_Procesos de Desarrollo/Sprint backlog.md",
-    "CE1116/01_Procesos de Desarrollo/Story points.md",
-    "CE1116/01_Procesos de Desarrollo/Taskboard.md",
     "CE1116/08_Roles",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-    "CE1116/00_Inbox/prueba.md",
     "Untitled.canvas",
-    "CE1116/09_Templates",
+    "CE1116/10_Templates",
     "CE1116/00_Inbox",
     "CE1116/07_Mantenimiento",
     "06_Maintenance",
-    "Untitled",
     "CE1116/06_Despliegue e Infrastructura",
     "CE1116/05_Pruebas",
     "CE1116/04_Implementación",
