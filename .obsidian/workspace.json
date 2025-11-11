@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b891c90ec3aaa64b",
+            "id": "2b2b9d5aa80cafc8",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "CE1116/10_Arquitectura/Cohesión en desarrollo de software.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Cohesión en desarrollo de software"
             }
           }
         ]
@@ -168,19 +170,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b891c90ec3aaa64b",
+  "active": "2b2b9d5aa80cafc8",
   "lastOpenFiles": [
-    "CE1116/10_Arquitectura/Cohesión en desarrollo de software.md",
     "CE1116/10_Arquitectura/Broker en arquitecturas Event Driven.md",
     "CE1116/10_Arquitectura/Arquitectura Event Driven.md",
     "CE1116/10_Arquitectura/Arquitectura en capas.md",
     "CE1116/10_Arquitectura/Arquitectura de software de microkernel.md",
     "CE1116/10_Arquitectura/Acoplamiento en desarrollo de software.md",
-    "CE1116/10_Arquitectura/Trade off en el diseño y arquitectura de software.md",
-    "CE1116/10_Arquitectura/Throughput.md",
-    "CE1116/10_Arquitectura/Latencia.md",
-    "CE1116/10_Arquitectura/Estrategia de modelado de la arquitectura por puntos de vista.md",
-    "CE1116/10_Arquitectura/Disponibilidad de la aplicación.md",
+    "CE1116/10_Arquitectura/Cohesión en desarrollo de software.md",
     "CE1116/11_Arquitectura/Trade off en el diseño y arquitectura de software.md",
     "CE1116/11_Arquitectura/Disponibilidad de la aplicación.md",
     "CE1116/11_Arquitectura/Latencia.md",
@@ -199,6 +196,11 @@
     "CE1116/08_Roles/Stakeholder.md",
     "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
     "CE1116/09_Principios de IA",
+    "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
+    "CE1116/01_Procesos de Desarrollo/Planning poker.md",
+    "CE1116/01_Procesos de Desarrollo/Sprint planning.md",
+    "CE1116/01_Procesos de Desarrollo/User story.md",
     "CE1116/08_Roles",
     "Untitled.canvas",
     "CE1116/11_Templates",
